@@ -1,0 +1,2 @@
+依旧是__builtin_popcount()函数
+这题需要根据题意重构下sort函数
