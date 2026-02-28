@@ -1,0 +1,4 @@
+constexpr int MOD = 1'000'000'007;
+这段是用较为优化的方法定义了一个常量
+int w = bit_width((uint32_t) i);
+这段是先将整数i强转为uint32_t类型，然后用bit_width()函数计算整数i的宽度
